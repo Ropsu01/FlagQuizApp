@@ -55,7 +55,7 @@ Here are some screenshots of the Flag Quiz App in action, showcasing its feature
 ### High Scores and Settings Screen
 <img src="screenshots/highscores.PNG" width="200"> <img src="screenshots/settingsscreen.PNG" width="200">
 
-### All Countries
+### Learn screen (All flags)
 <img src="screenshots/allcountries.PNG" width="200">
 
 
