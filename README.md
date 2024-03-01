@@ -29,6 +29,8 @@ This project was developed with React Native and utilizes the Expo framework for
 - **`expo-av` library**: Manages sound effects for correct and incorrect answers.
 - **AsyncStorage**: Used for persistence of high scores across sessions.
 - **Rest Countries API**: Provides the flag data used in the quizzes, allowing users to learn and identify flags of different countries.
+- **OpenAI's ChatGPT**: Utilized for development support and troubleshooting.
+
 
 The app is designed to be both educational and entertaining. 
 
