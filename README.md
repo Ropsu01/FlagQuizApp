@@ -61,8 +61,6 @@ Here are some screenshots of the Flag Quiz App in action, showcasing its feature
 
 ## Video Showcase
 
-For a more comprehensive overview of the Flag Quiz App, including its features and gameplay, watch our video showcase on YouTube:
-
 [![Flag Quiz App Showcase](https://img.youtube.com/vi/BaH-leAFv4Y/0.jpg)](https://youtu.be/BaH-leAFv4Y?si=4GZ0Kla-A14JTEDn)
 
 Click the image above or follow [this link](https://youtu.be/BaH-leAFv4Y?si=4GZ0Kla-A14JTEDn) to view the video.
