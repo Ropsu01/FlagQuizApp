@@ -44,33 +44,33 @@ The app is designed to be both educational and entertaining.
 Here are some screenshots of the Flag Quiz App in action, showcasing its features and user interface:
 
 ### Home Screen
-![Home Screen](screenshots/homescreen.PNG)
+<img src="screenshots/homescreen.PNG" width="200">
 
 ### Quiz Mode Selection
-![Quiz Mode Selection](screenshots/quizmodeselection.PNG)
+<img src="screenshots/quizmodeselection.PNG" width="200">
 
 ### Difficulty Selection
-![Difficulty Selection](screenshots/difficultyselection.PNG)
+<img src="screenshots/difficultyselection.PNG" width="200">
 
 ### Game Mode: Flag to Name
-![Game Mode: Flag to Name](screenshots/gamemodeflagtoname.PNG)
+<img src="screenshots/gamemodeflagtoname.PNG" width="200">
 
 ### Game Mode: Name to Flag
-![Game Mode: Name to Flag](screenshots/gamemodenametoflag.PNG)
+<img src="screenshots/gamemodenametoflag.PNG" width="200">
 
 ### Game Completed
-![Game Completed](screenshots/gamecompleted.PNG)
+<img src="screenshots/gamecompleted.PNG" width="200">
 
 ### Game Over Screen
-![Game Over Screen](screenshots/gameoverscreen.PNG)
+<img src="screenshots/gameoverscreen.PNG" width="200">
 
 ### High Scores
-![High Scores](screenshots/highscores.PNG)
+<img src="screenshots/highscores.PNG" width="200">
 
 ### Settings Screen
-![Settings Screen](screenshots/settingsscreen.PNG)
+<img src="screenshots/settingsscreen.PNG" width="200">
 
 ### All Countries
-![All Countries](screenshots/allcountries.PNG)
+<img src="screenshots/allcountries.PNG" width="200">
 
 
