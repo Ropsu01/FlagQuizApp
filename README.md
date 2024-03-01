@@ -43,34 +43,20 @@ The app is designed to be both educational and entertaining.
 
 Here are some screenshots of the Flag Quiz App in action, showcasing its features and user interface:
 
-### Home Screen
-<img src="screenshots/homescreen.PNG" width="200">
+### Home Screen and Quiz Mode Selection
+<img src="screenshots/homescreen.PNG" width="200"> <img src="screenshots/quizmodeselection.PNG" width="200">
 
-### Quiz Mode Selection
-<img src="screenshots/quizmodeselection.PNG" width="200">
+### Difficulty Selection and Game Modes
+<img src="screenshots/difficultyselection.PNG" width="200"> <img src="screenshots/gamemodeflagtoname.PNG" width="200"> <img src="screenshots/gamemodenametoflag.PNG" width="200">
 
-### Difficulty Selection
-<img src="screenshots/difficultyselection.PNG" width="200">
+### Game Completed and Game Over Screen
+<img src="screenshots/gamecompleted.PNG" width="200"> <img src="screenshots/gameoverscreen.PNG" width="200">
 
-### Game Mode: Flag to Name
-<img src="screenshots/gamemodeflagtoname.PNG" width="200">
-
-### Game Mode: Name to Flag
-<img src="screenshots/gamemodenametoflag.PNG" width="200">
-
-### Game Completed
-<img src="screenshots/gamecompleted.PNG" width="200">
-
-### Game Over Screen
-<img src="screenshots/gameoverscreen.PNG" width="200">
-
-### High Scores
-<img src="screenshots/highscores.PNG" width="200">
-
-### Settings Screen
-<img src="screenshots/settingsscreen.PNG" width="200">
+### High Scores and Settings Screen
+<img src="screenshots/highscores.PNG" width="200"> <img src="screenshots/settingsscreen.PNG" width="200">
 
 ### All Countries
 <img src="screenshots/allcountries.PNG" width="200">
+
 
 
