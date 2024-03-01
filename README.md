@@ -5,7 +5,7 @@ The Flag Quiz App is an interactive mobile application developed with React Nati
 
 ## Features
 - Two quiz modes: "1 Flag 4 Names" and "1 Name 4 Flags"
-- Three difficulty levels: Easy, Medium, Hard
+- Three difficulty levels: Easy, Medium, Hard. (Note: The difficulty classification of each country is based on its population size, rather than the popularity or recognizability of its flag.)
 - Sound effects for correct and incorrect answers
 - High score tracking with AsyncStorage
 - Dark and light theme support
@@ -18,7 +18,7 @@ To run the Flag Quiz App in your own environment, follow these steps:
 2. Install Expo CLI by running `npm install -g expo-cli` in your terminal.
 3. Clone this repository to your local machine.
 4. Navigate to the project directory and install dependencies with `npm install`.
-5. Start the project by running `npx expo start`. 
+5. Start the project by running `npx expo start` or `npm start`. 
 6. To run the app on your mobile device, download the Expo Go app from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www). Scan the QR code provided by the Expo developer tools with your device.
 
 ## Development
@@ -59,4 +59,11 @@ Here are some screenshots of the Flag Quiz App in action, showcasing its feature
 <img src="screenshots/allcountries.PNG" width="200">
 
 
+## Video Showcase
+
+For a more comprehensive overview of the Flag Quiz App, including its features and gameplay, watch our video showcase on YouTube:
+
+[![Flag Quiz App Showcase](https://img.youtube.com/vi/BaH-leAFv4Y/0.jpg)](https://youtu.be/BaH-leAFv4Y?si=4GZ0Kla-A14JTEDn)
+
+Click the image above or follow [this link](https://youtu.be/BaH-leAFv4Y?si=4GZ0Kla-A14JTEDn) to view the video.
 
